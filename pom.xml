@@ -12,6 +12,7 @@
     <modules>
         <module>timon-springboot-starter</module>
         <module>timon-springboot-start-autoconfigurer</module>
+        <module>test-starter</module>
     </modules>
 
     <parent>
